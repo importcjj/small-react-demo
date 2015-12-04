@@ -1,0 +1,24 @@
+{
+  "name": "tasks-board",
+  "version": "1.0.0",
+  "description": "tasks board",
+  "main": "entry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tasks",
+    "demo"
+  ],
+  "author": "jiaju.chen",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.23.0",
+    "file-loader": "^0.8.5",
+    "jsx-loader": "^0.13.2",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "style-loader": "^0.13.0",
+    "url-loader": "^0.5.7"
+  }
+}
