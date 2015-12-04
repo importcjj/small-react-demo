@@ -7,7 +7,6 @@ var TaskItem = React.createClass({
         )
     },
     render: function () {
-        console.log(this.props);
         var task = this.props.task;
         return (
             <li>{task}
